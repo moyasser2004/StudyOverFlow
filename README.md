@@ -76,25 +76,23 @@ Feel free to open an issue for suggestions or bugs!
 ## 📸 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/424d6787-f3f0-4535-8464-bcb9bf946175" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/350835ba-13af-4aa4-a7ed-6e2be5544926" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/cbbef9f1-b91c-4305-b8e1-41eb52617d18" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/ac9d737e-571e-4b05-ba9e-8113bd2b1a86" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/8c35cd22-3a0a-4de4-a8c0-e318e7c9666a" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/e600bb5f-f09e-4103-a9bd-dabbbe8f7d6b" style="width: 30%; margin: 10px;">
   
-  <img src="https://github.com/user-attachments/assets/1db453c1-77d8-4cb9-8f46-f83ceed7fab9" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/8918d6fa-64e8-48ed-b198-668a7eefee58" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/eca3da7c-17c5-4ceb-9805-cfce80b2ffcd" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/f5070a03-c81b-4218-9244-9053f0909b42" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/8e3a2fc3-2f21-4214-9050-29f3650b86ce" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/d94699b9-8797-41ec-bf02-5dab32503b43" style="width: 30%; margin: 10px;">
   
-  <img src="https://github.com/user-attachments/assets/3816e0bc-caa0-42c5-b341-22a1dba42676" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/a383d57e-91b5-44c8-acfd-227017259503" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/d2409c82-15ca-491c-a862-5f7f609e4d79" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/c0f93cb5-888d-4754-ba81-ed35c8b0084d" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/fcca3fa1-805f-4304-88a8-116a8e2e0006" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/9db85745-8418-4d1b-8120-f3638bd346dc" style="width: 30%; margin: 10px;">
   
-  <img src="https://github.com/user-attachments/assets/5c3841c8-95ac-4bcb-9016-f4fc62176c06" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/b5204ebc-41f8-4fe1-b20b-0e666679ade0" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/fa4b1981-381c-4669-a8ce-6899dc1f2467" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/47fc0d73-5b3b-4873-ab05-233625345445" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/6308823e-e950-4859-a476-295620c17744" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/f7ccc93a-2a10-446b-82d9-57b2b03c391f" style="width: 30%; margin: 10px;">
   
-  <img src="https://github.com/user-attachments/assets/731a63dc-0b2b-44e7-afcf-4e7d6190994b" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/08eb59cd-0a02-4ed4-9b89-e726a7c2cc2e" style="width: 30%; margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/6d59db2e-d653-4006-9008-0ca391357938" style="width: 30%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/051947f7-00fd-4100-98fe-869acc56102d" style="width: 30%; margin: 10px;">
 </div>
 
 
